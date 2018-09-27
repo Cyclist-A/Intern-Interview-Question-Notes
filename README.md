@@ -25,6 +25,7 @@
 
 - public, private, protected, internal的访问限制？
 - C#中类有friend类型吗？
+- .net Framework是什么？和C#是什么关系？
 
 ## SQL问题
 
