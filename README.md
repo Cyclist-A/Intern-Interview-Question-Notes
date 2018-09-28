@@ -20,6 +20,7 @@
 - pyc文件是什么？
 - 如何定义全局变量
 - 如何import一个包
+- OOP中object和instance的区别是什么？
 
 ## C#问题（因为我写了会C#）
 
