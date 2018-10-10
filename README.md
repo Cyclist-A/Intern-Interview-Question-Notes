@@ -13,6 +13,7 @@
 ## python 问题
 
 - Python 支持多重继承吗？
+-- fff
 - Python 的类是如何定义的？
 - init 函数前有几个杠杠？有一个杠杠的情况吗？
 - self的含义？
