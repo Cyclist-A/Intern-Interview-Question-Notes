@@ -11,4 +11,4 @@
 
 有13个零件，外表完全一样，但有一个是不合格品，其重量和其它的不同，且轻重不知。请你用天平称3次，把它找出来
 
-[test](https://www.zybang.com/question/f43e57dc361245796534085abf2031d8.html "Title")
+[解答](https://www.zybang.com/question/f43e57dc361245796534085abf2031d8.html "Title")
