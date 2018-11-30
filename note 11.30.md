@@ -25,7 +25,7 @@
 
 [解答](https://zhidao.baidu.com/question/559110400926623324.html)
 
-烧绳子问题
+烧一根不均匀的绳子,从头到尾总共需要1个小时.现有若干条材质相同的绳子，如何用烧绳的方法来计时一个小时十五分钟？
 
 [解答](https://zhidao.baidu.com/question/748317954290799292.html)
 
