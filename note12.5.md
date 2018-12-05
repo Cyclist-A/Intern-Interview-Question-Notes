@@ -29,6 +29,8 @@
 
 leetcode上的一道题：
 
+- [原题](https://leetcode.com/problems/two-sum/)
+
 给定一个整数数组，一个整数目标值，找出这个数组中所有的一对数字，使得这对数字的和是目标值。
 
 ``` 
