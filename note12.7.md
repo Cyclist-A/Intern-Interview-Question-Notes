@@ -1,4 +1,4 @@
-# DL 岗位，没几个问题
+# DL 岗位，没几个问题，基本凉凉
 
 - C++中static修饰词在成员变量和成员函数前分别表示什么？
   - static 修饰变量： 一个 student class 有一个静态成员，年龄。实例化了多个student类型的对象，小明和小红，修改小明的年龄，小红的年龄也会变化。  
@@ -33,5 +33,22 @@
   ```
   
 - pyhton中map函数和reduce的函数的用法分别是？
+  - map: 
+  ```
+  map(function, iterable）
+  ```
+  fuction 函数依次以iterable内的元素为参数运行，返回function函数的返回值的列表
+  
+  - reduce
+  //太棒了我完全按照mapreduce里的reduce讲的：）
+  ```
+  reduce(lambda x, y: x+y, [1,2,3,4,5])
+  ```
+  1+2+3+4+5=15
+  return 15
+  
+- pytorch中dataloader的用法是？
 
-- pytorch中data loader的用法是？
+  - [解答](https://blog.csdn.net/zw__chen/article/details/82806900)
+
+  //不想写了，答得完全不着调
