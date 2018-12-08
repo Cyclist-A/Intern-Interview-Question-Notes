@@ -32,7 +32,7 @@
   }
   ```
   
-- pyhton中map函数和reduce的函数的用法分别是？
+- python中map函数和reduce的函数的用法分别是？
   - map: 
   ```
   map(function, iterable）
